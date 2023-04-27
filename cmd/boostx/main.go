@@ -38,6 +38,7 @@ func main() {
 			marketWithdrawCmd,
 			statsCmd,
 			sectorCmd,
+			disasterRecoveryCmd,
 		},
 	}
 	app.Setup()
